@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    //private int speed=29;
+    private int speed=29;
     //public float carSP;
     //public double carcarSP;
     //public bool carcarcarSP;
