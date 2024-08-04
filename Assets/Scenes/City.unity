@@ -638,6 +638,30 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 400012, guid: e8aa13d551255db489199e8cffe413e4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.406
+      objectReference: {fileID: 0}
+    - target: {fileID: 400012, guid: e8aa13d551255db489199e8cffe413e4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.97982985
+      objectReference: {fileID: 0}
+    - target: {fileID: 400012, guid: e8aa13d551255db489199e8cffe413e4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.0000017734874
+      objectReference: {fileID: 0}
+    - target: {fileID: 400012, guid: e8aa13d551255db489199e8cffe413e4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.1998335
+      objectReference: {fileID: 0}
+    - target: {fileID: 400012, guid: e8aa13d551255db489199e8cffe413e4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.00000036169763
+      objectReference: {fileID: 0}
+    - target: {fileID: 400012, guid: e8aa13d551255db489199e8cffe413e4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -23.054
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects:
@@ -1299,10 +1323,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c3c830b703de81a479e287e6aefc9bd9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  carSP: 51.4
-  carcarSP: 359
+  carSP: 1.24
+  carcarSP: 2
   carcarcarSP: 0
-  carcarSPName: ararcararar
+  carcarSPName: 
 --- !u!1001 &1737875834
 PrefabInstance:
   m_ObjectHideFlags: 0

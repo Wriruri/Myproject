@@ -5,10 +5,10 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     private int speed=29;
-    //public float carSP;
-    //public double carcarSP;
-    //public bool carcarcarSP;
-    //public string carcarSPName;
+    public float carSP;
+    public double carcarSP;
+    public bool carcarcarSP;
+    public string carcarSPName;
     void Start()
     {
         
